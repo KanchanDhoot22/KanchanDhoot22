@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KanchanDhoot22/GymWebsite.github.io/blob/main/gif%20github.gif)](https://KanchanDhoot22.io)
+[![MasterHead](https://github.com/KanchanDhoot22/GymWebsite.github.io/blob/main/git.PNG)](https://KanchanDhoot22.io)
 <h1 align="center">Hi 👋, I'm Kanchan Dhoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
