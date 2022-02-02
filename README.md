@@ -23,9 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchandhoot22&show_icons=true&locale=en&layout=compact" alt="kanchandhoot22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchandhoot22&show_icons=true&locale=en" alt="kanchandhoot22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchandhoot22&show_icons=true&theme=highcontrast&locale=en" alt="kanchandhoot22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchandhoot22&" alt="kanchandhoot22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchandhoot22&theme=highcontrast" alt="kanchandhoot22" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KanchanDhoot22)  
 
