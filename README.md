@@ -29,8 +29,8 @@
 
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KanchanDhoot22&show_icons=true&theme=highcontrast&title_color=ff8080&locale=en&layout=compact" alt="KanchanDhoot22" /></p>
    
-  ## 📊 My Github Stats
-  </br>
+
+ 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KanchanDhoot22&show_icons=true&theme=highcontrast&locale=en" alt="KanchanDhoot22" /></p>
 
